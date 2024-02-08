@@ -1,0 +1,9 @@
+run_client
+run_server
+build
+.gradle
+.idea
+gradle
+logs
+versions
+old_build.txt
